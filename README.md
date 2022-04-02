@@ -1,11 +1,11 @@
 <p align="center">
     <a href="https://app.codacy.com/manual/mr-dark-prince/alexasongbot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/mr-dark-prince/alexasongbot"> <img src="https://img.shields.io/github/repo-size/mr-dark-prince/alexasongbot?color=brightgreen&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/vusalgizli/alexasongbot"> <img src="https://img.shields.io/github/repo-size/mr-dark-prince/alexasongbot?color=brightgreen&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 # Alexa Song Bot
 ## Fastest Mp3 downloader
-![logo](https://telegra.ph/file/92286679d79692b26a2a7.jpg)
+![logo](https://te.legra.ph/file/4af0741070e7f2014924e.jpg)
 Reach me on Telegram [ALEXA 📻](https://t.me/alexasongbot)
 
 ## How To Host

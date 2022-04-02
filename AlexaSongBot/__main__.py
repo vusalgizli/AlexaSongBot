@@ -10,10 +10,10 @@ from AlexaSongBot.mrdarkprince import ignore_blacklisted_users
 from AlexaSongBot.sql.chat_sql import add_chat_to_db
 
 start_text = """
-Hey [{}](tg://user?id={}),
-I'm Alexa 🤗
-Just send me the song name you want to download.
-Eg: ```/song Faded Alan Walker```
+Salam! [{}](tg://user?id={}),
+Mən Vüsal'am 🤍
+Mən Sizin üçün MP3 MP4 Mahnı Yükləyən Botam.
+Məsəl üçün: ```/song Gecə Ləzzət edir```
 """
 
 owner_help = """
@@ -35,7 +35,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🔳 Source Code 🔳", url="https://github.com/Mr-Dark-Prince/AlexaSongBot"
+                        text="📣 Rəsmi Kanal 📣", url="https://t.me/Aze_n1Botlar"
                     )
                 ]
             ]

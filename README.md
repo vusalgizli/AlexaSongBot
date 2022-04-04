@@ -6,7 +6,7 @@
 # Alexa Song Bot
 ## Fastest Mp3 downloader
 ![logo](https://te.legra.ph/file/4af0741070e7f2014924e.jpg)
-Reach me on Telegram [ALEXA 📻](https://t.me/alexasongbot)
+Reach me on Telegram [ALEXA 📻](http://t.me/ASOSongBot)
 
 ## How To Host
 The easiest way to deploy this Song Bot

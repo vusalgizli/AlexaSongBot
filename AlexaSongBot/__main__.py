@@ -35,7 +35,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="📣 Rəsmi Kanal 📣", url="https://t.me/ASOresmi"
+                        text="📣 Rəsmi Qrup 📣", url="https://t.me/AzeSohbetGurupu"
                     )
                 ]
             ]
